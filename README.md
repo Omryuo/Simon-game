@@ -4,7 +4,7 @@ A modern implementation of the classic Simon memory game with retro aesthetics a
 
 ![Simon Game preview](./preview.png) 
 
-## 🎯 Demo
+## 🎯 Demo 
 
 Check out the live demo : https://omryuo.github.io/Simon-game/
 
