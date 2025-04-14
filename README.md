@@ -65,12 +65,6 @@ Check out the live demo : https://omryuo.github.io/Simon-game/
   </tr>	
 </table>
 
-## 📱 Mobile Support
-- Fully responsive design
-- Touch-optimized buttons
-- Mobile-first media queries
-- Works on all modern mobile browsers
-
 ## 🛠️ Technologies used :
 - HTML5
 - CSS3 with Flexbox
