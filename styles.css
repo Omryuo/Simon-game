@@ -165,7 +165,7 @@ footer {
   #score, #high-score {
     font-size: 1rem;
   }
-  .game-over-content {
+  .footer {
     font-size: 0.8rem;
     padding: 20px;
   }
